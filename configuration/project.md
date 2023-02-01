@@ -1163,7 +1163,7 @@ The templating engine can also be disabled on a per-page basis by setting `templ
 
 === liquid : `boolean`
 
-Specifies if Liquid syntax `{% ... %}` is enabled. If `liquid: true` is set, Retype is incompatible with GitBook style of component configuration.
+Specifies if Liquid syntax is enabled. If `liquid: true` is set, Retype is incompatible with GitBook style of component configuration.
 
 Default is `false`.
 
